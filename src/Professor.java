@@ -1,13 +1,3 @@
-/*
-### 2. Class: `Professor`
-        - Create a class `Professor` with the following fields:
-        - `firstName`
-        - `lastName`
-        - `course`
-        - Create a constructor that accepts all arguments.
-- Create a constructor that accepts only the course and initializes the professor's name as `"Marko Horvat"`.
-*/
-
 public class Professor extends Human {
 
     String course;

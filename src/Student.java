@@ -1,17 +1,3 @@
-/*
-### 1. Class: `Student`
-        - Create a class `Student` with the following fields:
-        - `firstName` (String)
-        - `lastName` (String)
-        - `yearOfStudy` (int)
-        - `averageGrade` (double)
-        - Create a constructor that accepts two `String` parameters: `firstName` and `lastName`.
-It should initialize those fields.
-- Add a no-argument constructor.
-When a student is created using this constructor,
-the default name should be `"Pero Peric"`.
-*/
-
 public class Student extends Human {
 
     private int yearOfStudy;

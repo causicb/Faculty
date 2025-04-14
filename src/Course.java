@@ -1,14 +1,3 @@
-/*
-### 3. Class: `Course`
-        - Create a class `Course` with the following fields:
-        - `name`
-        - `professor`
-        - `students`
-        - Implement functionality to add students to the course.
-        - If a student is not in the same year of study as the course requires,
-the application should throw an error.
-*/
-
 import java.util.ArrayList;
 import java.util.List;
 
